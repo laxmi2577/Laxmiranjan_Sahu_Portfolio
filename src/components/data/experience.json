@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Java Programmer",
+    "organisation": "Juvenilia Technology Pvt Limited",
+    "startDate": "April , 2023",
+    "endDate": "July , 2023",
+    "location": "Bhubaneswar, India",
+    "experiences": [
+      "Completed 4-month Java training, mastering OOP and concepts.",
+      "Learned Java full-stack development concepts effectively"
+    ],
+    "imageSrc": "company/JT.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Development Training",
+    "organisation": "Mirosoft",
+    "startDate": "February, 2023",
+    "endDate": "April , 2023",
+    "location": "India (Remote)",
+    "experiences": [
+      "Completed 2-month training in web development",
+      "Gained skills in React, JavaScript, and DBMS"
+    ],
+    "imageSrc": "company/IS.png"
+  }
+]

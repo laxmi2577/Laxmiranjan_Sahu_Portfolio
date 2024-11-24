@@ -1,0 +1,31 @@
+[
+  {
+    "key": 1,
+    "title": "Intelligent Tourist Experience Enhancer using AI",
+    "imageSrc": "https://www.solulab.com/wp-content/uploads/2024/06/AI-in-Tourism.jpg",
+    "description": "This is a project made with JSP,CSS,MySQL,JavaScript and MySQL.",
+    "source": "https://github.com/laxmi2577/Intelligent-Tourist-Experience-Enhancer-using-AI"
+  },
+  {
+    "key": 2,
+    "title": "MediConnect    : Bridging with Health Care System",
+    
+    "imageSrc": "https://raw.githubusercontent.com/ptilop-sys/mediconnect/main/src/assets/icons/hero.png",
+    "description": "This is a project made with  JSP,CSS,MySQL,JavaScript and MySQL.",
+       "source": "https://github.com/laxmi2577/MediConnect"
+  },
+  {
+    "key": 3,
+    "title": "React E-COMMERCE",
+    "imageSrc": "https://www.datocms-assets.com/205/1640011361-react-ecommerce-tutorial.png?auto=format&h=500",
+    "description": "This is a project made with complete React js.",
+    "source": "https://github.com/laxmi2577/REACT_E-COMMERCE"
+  },
+  {
+    "key": 4,
+    "title": "Text Editor",
+    "imageSrc": "https://ft.syncfusion.com/featuretour/essential-js2/images/rich-text-editor/quick-toolbar-in-javascript-rich-text-editor.png",
+    "description": "This is a project made with complete React js.",
+    "source": "https://github.com/laxmi2577/Text_Editor"
+  }
+]
